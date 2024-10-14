@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Chaudhary</h1>
-<h3 align="center">Hi, I'm [Your Name], a second-year computer science student passionate about web development and AI/ML. I love building projects that solve real-world problems and exploring new technologies.
+<h3 align="center">Hi, I'm Aryan Chaudhary, a second-year computer science student passionate about web development and AI/ML. I love building projects that solve real-world problems and exploring new technologies.
 </h3>
 
 <h3 align="left">Connect with me:</h3>
